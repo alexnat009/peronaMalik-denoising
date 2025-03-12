@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f94517c-73cf-4c19-b4ef-167a55f1c512)
+
 # Image Denoising using Numerical Methods for PDEs
 
 This repository contains a Python project focused on image denoising using various numerical methods for solving partial differential equations (PDEs). The project leverages the Perona-Malik anisotropic diffusion model and implements several numerical methods, including Runge-Kutta, Adams-Bashforth, and Adams-Moulton, to solve the PDEs.
