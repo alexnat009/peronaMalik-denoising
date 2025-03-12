@@ -37,7 +37,8 @@ pip install numpy opencv-python matplotlib scipy
    The `show_results` function in `outputImages.py` displays the original and denoised images using different numerical methods.
 
 ### Output sample
-<img src="https://github.com/user-attachments/assets/33d2fd5f-d38b-41b1-9713-7e52a2b23659" width="500">
+<img src="https://github.com/user-attachments/assets/16ad2963-937c-42d4-99d7-7aea871b5a01" width="1000">
+
 
 
 ## Numerical Methods Implemented
